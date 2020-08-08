@@ -1,1 +1,2 @@
-# Boosktore-Database-Application
+This is an application created for a local Madisonian Bookstore named Paul's Bookstore. The frontend was designed using Tkinter Python library, and the backend was designed using SQLite3, which creates a disk-based database that doesn’t require a separate server process and allows accessing the database using a nonstandard variant of the SQL query language. 
+In order to deplot the application as is, open command line and run the frontend.py file. 
